@@ -1,2 +1,2 @@
-# LandingPage-InDecor
-A Landing page of a fictional furniture store, made with HTML and CSS only for practice purposes.
+![image](https://github.com/OsmarBaia/LandingPage-InDecor/assets/88497805/07ec2867-5eb1-48ea-b3ca-34982c7d1b1e)
+
